@@ -1,2 +1,0 @@
-first commit from feature1.
-second commit from feature1.
